@@ -1,4 +1,4 @@
-# EcoStore-1 — Eco E-commerce Landing Page Template
+# Eco E-commerce Landing Page Template
 
 A modern, responsive, and elegant **eCommerce landing page template** designed for online stores, product showcases, and startups.  
 Built with a focus on **user experience, conversion, and clean design**.
