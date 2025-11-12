@@ -7,7 +7,8 @@ Built with a focus on **user experience, conversion, and clean design**.
 
 ## Preview
 
-![EcoStore-1 Preview](https://raw.githubusercontent.com/amvitor-cm/Eco-ecommerce/main/assets/preview.jpg)
+![website Preview](https://raw.githubusercontent.com/amvitor-cm/Eco-ecommerce/main/ecostore-1.jpg)
+
 
 
 ---
