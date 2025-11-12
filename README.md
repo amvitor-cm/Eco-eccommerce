@@ -21,7 +21,7 @@ Built with a focus on **user experience, conversion, and clean design**.
 ---
 
 ## Overview
-The **EcoStore-1 template** is ideal for businesses looking to create a professional online store quickly.  
+The **EcoEccommerce template** is ideal for businesses looking to create a professional online store quickly.  
 It highlights products, promotions, and customer trust elements while keeping the design clean and modern.
 
 ---
@@ -80,5 +80,5 @@ For customization, inquiries, or private access requests:
 
 ---
 
-© 2025 EcoStore-1 Template. All rights reserved.  
+© 2025 EcoEccommerce Template. All rights reserved.  
 *Static front-end demo created for presentation and portfolio purposes.*
