@@ -14,7 +14,7 @@ Built with a focus on **user experience, conversion, and clean design**.
 ---
 
 ## Live Demo
-**View Site:** [https://eco-eccommerce.vercel.app/#](https://eco-ecommerce-bay.vercel.app)
+**View Site:** [https://eco-ecommerce-bay.vercel.app](https://eco-ecommerce-bay.vercel.app)
 
 *(This is a fully functional front-end demo. The source code is private.)*
 
